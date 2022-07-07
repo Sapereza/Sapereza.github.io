@@ -14,9 +14,21 @@ h1{
 }
 
 p{
-color:navy;
+color:;
+background-color:lavender;
+border-style:dotted;
+width: 460px;
+padding:20px;
+margin:5px 0px 0px 20px;
 
+}
 
+main{
+    border-style:dotted;
+    width: 500px;
+    background-color: lavender;
+    padding:20px;
+    margin: 5px 0px 0px 20px;
 }
 
 ul{
