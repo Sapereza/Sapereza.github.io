@@ -8,7 +8,9 @@ h1{
     border-style:dotted;
     border: width 4px;
     padding:5px;
-    text-align:center
+    text-align:center;
+    width:300px;
+    Margin:auto;
 }
 
 p{
